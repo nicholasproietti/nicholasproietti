@@ -2,9 +2,7 @@
 - 👀 I’m interested in physics, astronomy, and mathematics.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
---- email: np46@rice.edu
---- phone number: 518-952-5002
+- 📫 How to reach me: email: [np46@rice.edu](np46@rice.edu) / phone number: 518-952-5002
 
 <!---
 nicholasproietti/nicholasproietti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
