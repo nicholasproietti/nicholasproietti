@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicholasproietti
-- 👀 I’m interested in physics, astronomy, AI and machine learning.
+- 👀 I’m interested in physics, astronomy, and AI.
 - 📫 How to reach me: [email](mailto:np46@rice.edu) 
 
 <!---
