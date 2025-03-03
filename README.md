@@ -2,7 +2,7 @@
 
 I am physicist with a talent for data science and machine learning. Passionate about developing innovative solutions using data-driven approaches. Eager to expand my knowledge and ready to dive into challenging projects. 
 
-I'm deeply passionate about the latest advancements in AI. I love exploring new AI tools, staying updated on cutting-edge innovations 👀, and harnessing AI’s potential to enhance my personal growth and career development.
+I'm deeply passionate about the latest advancements in AI. I love exploring new AI tools, staying updated on cutting-edge innovations, and harnessing AI’s potential to enhance my personal growth and career development.
 
 ### Data Science Projects
 
@@ -16,11 +16,11 @@ Email – [nproietti17@gmail.com](mailto:nproietti17@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-proietti/)
 
-
 ### Outside of Work, I Enjoy...
 - Traveling and connecting to people from different corners of the globe
 - Reading about science, astrophysics, and technology
-- Hiking and enjoying 
+- Nature and hiking
+- Self-development
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
