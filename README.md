@@ -2,7 +2,7 @@
 
 I am physicist with a talent for data science and machine learning. Passionate about developing innovative solutions using data-driven approaches. Eager to expand my knowledge and ready to dive into challenging projects. 
 
-I am hugely enthusiastic about the recent breakthroughs in AI! I enjoy trying new AI tools, reading about the most recent developments, and learning about power of data-driven solutions.
+I'm deeply passionate about the latest advancements in AI. I love exploring new AI tools, staying updated on cutting-edge innovations 👀, and harnessing AI’s potential to enhance my personal growth and career development.
 
 ## Data Science Projects
 
