@@ -8,8 +8,12 @@ I am hugely enthusiastic about the recent breakthroughs in AI! I enjoy trying ne
 
 To be added!
 
+---
+
 **How to reach me:**  
 Email – [nproietti17@gmail.com](mailto:nproietti17@gmail.com)
+
+---
 
 ## Connect with Me
 
