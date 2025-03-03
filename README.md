@@ -8,12 +8,9 @@ I'm deeply passionate about the latest advancements in AI. I love exploring new 
 
 To be added!
 
----
+### How to reach me
 
-**How to reach me:**  
 Email – [nproietti17@gmail.com](mailto:nproietti17@gmail.com)
-
----
 
 ### Connect with Me
 
