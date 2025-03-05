@@ -4,9 +4,10 @@ I am physicist with a talent for data science and machine learning. Passionate a
 
 I'm deeply passionate about the latest advancements in AI. I love exploring new AI tools, staying updated on cutting-edge innovations, and harnessing AI’s potential to enhance my personal growth and career development.
 
-### Data Science Projects
+### Data Science/Machine Learning Projects
 
-To be added!
+[Graduate Starting Salary Prediction Project (NN, 2025)](https://github.com/nicholasproietti/Graduate-Starting-Salary-Prediction-Project)
+[Estimating the Sizes of Exoplanets (NN, MSc Project, 2022/2023)](https://github.com/nicholasproietti/LGM)
 
 ### How to reach me
 
