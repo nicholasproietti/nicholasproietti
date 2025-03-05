@@ -7,6 +7,7 @@ I'm deeply passionate about the latest advancements in AI. I love exploring new 
 ### Data Science/Machine Learning Projects
 
 [Graduate Starting Salary Prediction Project (NN, 2025)](https://github.com/nicholasproietti/Graduate-Starting-Salary-Prediction-Project)
+
 [Estimating the Sizes of Exoplanets (NN, MSc Project, 2022/2023)](https://github.com/nicholasproietti/LGM)
 
 ### How to reach me
