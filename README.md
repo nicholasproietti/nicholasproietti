@@ -6,6 +6,7 @@
 
 ### Data Science/Machine Learning Projects
 
+- [Forecasting Daily Stock Returns (ARIMA, GARCH, Prophet, LSTM, XGBoost, 2025)](https://github.com/nicholasproietti/stock-forecasting)
 - [Graduate Starting Salary Prediction Project (NN, 2025)](https://github.com/nicholasproietti/Graduate-Starting-Salary-Prediction-Project)
 - [Estimating the Sizes of Exoplanets (NN, MSc Project, 2022/2023)](https://github.com/nicholasproietti/LGM)
 
